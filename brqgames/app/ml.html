@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>شحن Mobile Legends</title>
+  <script src="https://cdn.moyasar.com/mpf/1.7.3/moyasar.js"></script>
+</head>
+<body>
+  <h1>شحن Mobile Legends</h1>
+
+  <form>
+    <label>أدخل ID اللاعب:</label>
+    <input type="text" required>
+    <br><br>
+    <label>اختر الباقة:</label>
+    <select>
+      <option value="500">500 دايموند - 20 ريال</option>
+      <option value="1000">1000 دايموند - 35 ريال</option>
+    </select>
+  </form>
+
+  <div id="mysr-form"></div>
+
+  <script>
+    Moyasar.init({
+      element: '#mysr-form',
+      amount: 2000, // 20 ريال (بالهللة)
+      currency: 'SAR',
+      description: 'شحن Mobile Legends',
+      publishable_api_key: 'pk_test_xxxxxxxxxxxxx',
+      callback_url: 'https://brq-games.com/success'
+    });
+  </script>
+</body>
+</html>

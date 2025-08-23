@@ -1,0 +1,36 @@
+{
+  "slug": "pubg-mobile",
+  "title": "PUBG Mobile",
+  "image": "/images/games/pubg-mobile.svg",
+  "currency": "SAR",
+  "products": [
+    {
+      "id": "pubg-mobile-1",
+      "label": "الباقة الصغيرة",
+      "price": 10.0,
+      "amount_halalas": 1000,
+      "description": "شحن PUBG Mobile - الباقة الصغيرة"
+    },
+    {
+      "id": "pubg-mobile-2",
+      "label": "الباقة المتوسطة",
+      "price": 25.0,
+      "amount_halalas": 2500,
+      "description": "شحن PUBG Mobile - الباقة المتوسطة"
+    },
+    {
+      "id": "pubg-mobile-3",
+      "label": "الباقة الكبيرة",
+      "price": 50.0,
+      "amount_halalas": 5000,
+      "description": "شحن PUBG Mobile - الباقة الكبيرة"
+    },
+    {
+      "id": "pubg-mobile-4",
+      "label": "الباقة الضخمة",
+      "price": 100.0,
+      "amount_halalas": 10000,
+      "description": "شحن PUBG Mobile - الباقة الضخمة"
+    }
+  ]
+}

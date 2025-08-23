@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* بإمكانك تضيف هنا أي ستايلات عامة خاصة فيك */
+body {
+  @apply bg-white text-gray-900 antialiased;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  direction: rtl;
+}
+
+body {
+  @apply bg-neutral-950 text-neutral-100;
+  font-feature-settings: "ss01";
+}
+
+.container {
+  @apply max-w-6xl mx-auto px-4;
+}
+
+.btn {
+  @apply inline-flex items-center justify-center rounded-2xl px-4 py-2 text-sm font-semibold bg-brand hover:bg-brand-dark transition;
+}
+
+.card {
+  @apply rounded-2xl border border-neutral-800 bg-neutral-900/60 p-4 shadow-lg;
+}

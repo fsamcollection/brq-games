@@ -1,0 +1,36 @@
+{
+  "slug": "black-clover",
+  "title": "Black Clover M",
+  "image": "/images/games/black-clover.svg",
+  "currency": "SAR",
+  "products": [
+    {
+      "id": "black-clover-1",
+      "label": "الباقة الصغيرة",
+      "price": 10.0,
+      "amount_halalas": 1000,
+      "description": "شحن Black Clover M - الباقة الصغيرة"
+    },
+    {
+      "id": "black-clover-2",
+      "label": "الباقة المتوسطة",
+      "price": 25.0,
+      "amount_halalas": 2500,
+      "description": "شحن Black Clover M - الباقة المتوسطة"
+    },
+    {
+      "id": "black-clover-3",
+      "label": "الباقة الكبيرة",
+      "price": 50.0,
+      "amount_halalas": 5000,
+      "description": "شحن Black Clover M - الباقة الكبيرة"
+    },
+    {
+      "id": "black-clover-4",
+      "label": "الباقة الضخمة",
+      "price": 100.0,
+      "amount_halalas": 10000,
+      "description": "شحن Black Clover M - الباقة الضخمة"
+    }
+  ]
+}

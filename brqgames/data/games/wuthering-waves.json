@@ -1,0 +1,36 @@
+{
+  "slug": "wuthering-waves",
+  "title": "Wuthering Waves",
+  "image": "/images/games/wuthering-waves.svg",
+  "currency": "SAR",
+  "products": [
+    {
+      "id": "wuthering-waves-1",
+      "label": "الباقة الصغيرة",
+      "price": 10.0,
+      "amount_halalas": 1000,
+      "description": "شحن Wuthering Waves - الباقة الصغيرة"
+    },
+    {
+      "id": "wuthering-waves-2",
+      "label": "الباقة المتوسطة",
+      "price": 25.0,
+      "amount_halalas": 2500,
+      "description": "شحن Wuthering Waves - الباقة المتوسطة"
+    },
+    {
+      "id": "wuthering-waves-3",
+      "label": "الباقة الكبيرة",
+      "price": 50.0,
+      "amount_halalas": 5000,
+      "description": "شحن Wuthering Waves - الباقة الكبيرة"
+    },
+    {
+      "id": "wuthering-waves-4",
+      "label": "الباقة الضخمة",
+      "price": 100.0,
+      "amount_halalas": 10000,
+      "description": "شحن Wuthering Waves - الباقة الضخمة"
+    }
+  ]
+}

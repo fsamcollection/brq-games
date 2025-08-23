@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.brqgames.com
+
+# Sitemaps
+Sitemap: https://www.brqgames.com/sitemap.xml

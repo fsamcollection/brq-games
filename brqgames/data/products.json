@@ -1,0 +1,38 @@
+[
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "slug": "elden-ring",
+    "price": 199.0,
+    "platform": "PC",
+    "genre": "Action RPG",
+    "rating": 9.5,
+    "image": "/images/placeholder-game-1.png",
+    "short": "ملحمة عالم مفتوح صعبة ومكافِئة.",
+    "description": "اكتشف الأراضي بين، قاتل الزعماء العملاقة، واصنع أسلوب لعبك الخاص."
+  },
+  {
+    "id": "fc24",
+    "title": "EA Sports FC 24",
+    "slug": "ea-sports-fc-24",
+    "price": 249.0,
+    "platform": "PlayStation",
+    "genre": "Sports",
+    "rating": 8.2,
+    "image": "/images/placeholder-game-2.png",
+    "short": "تجربة كرة قدم واقعية مع أطوار لعب متعددة.",
+    "description": "ابنِ فريق أحلامك ونافس عالميًا في أوضاع لعب متنوعة."
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft",
+    "slug": "minecraft",
+    "price": 99.0,
+    "platform": "PC",
+    "genre": "Sandbox",
+    "rating": 9.0,
+    "image": "/images/placeholder-game-3.png",
+    "short": "ابنِ عالمك بكتل لا تنتهي.",
+    "description": "استكشف وابدع وشارك تجاربك مع أصدقائك في عوالم لا محدودة."
+  }
+]

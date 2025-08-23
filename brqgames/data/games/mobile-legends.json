@@ -1,0 +1,36 @@
+{
+  "slug": "mobile-legends",
+  "title": "Mobile Legends",
+  "image": "/images/games/mobile-legends.svg",
+  "currency": "SAR",
+  "products": [
+    {
+      "id": "mobile-legends-1",
+      "label": "الباقة الصغيرة",
+      "price": 10.0,
+      "amount_halalas": 1000,
+      "description": "شحن Mobile Legends - الباقة الصغيرة"
+    },
+    {
+      "id": "mobile-legends-2",
+      "label": "الباقة المتوسطة",
+      "price": 25.0,
+      "amount_halalas": 2500,
+      "description": "شحن Mobile Legends - الباقة المتوسطة"
+    },
+    {
+      "id": "mobile-legends-3",
+      "label": "الباقة الكبيرة",
+      "price": 50.0,
+      "amount_halalas": 5000,
+      "description": "شحن Mobile Legends - الباقة الكبيرة"
+    },
+    {
+      "id": "mobile-legends-4",
+      "label": "الباقة الضخمة",
+      "price": 100.0,
+      "amount_halalas": 10000,
+      "description": "شحن Mobile Legends - الباقة الضخمة"
+    }
+  ]
+}
