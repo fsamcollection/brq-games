@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>تفاصيل اللعبة</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-slate-50 text-slate-900">
+    <header class="sticky top-0 z-10 bg-white/80 backdrop-blur border-b">
+      <div class="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
+        <a href="/" class="text-sm text-indigo-600">← الرجوع</a>
+        <h1 id="gameName" class="text-xl font-extrabold"></h1>
+        <div></div>
+      </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-4 py-8">
+      <div class="grid md:grid-cols-2 gap-8">
+        <div>
+          <img id="gameImage" src="" alt="" class="w-full h-64 object-cover rounded-2xl shadow" onerror="this.onerror=null; this.src=window.__placeholder;" />
+        </div>
+        <div>
+          <form id="orderForm" class="space-y-4 bg-white rounded-2xl p-5 shadow">
+            <div>
+              <label class="block text-sm mb-1">اختر الباقة</label>
+              <div id="packages" class="grid grid-cols-1 sm:grid-cols-2 gap-3"></div>
+            </div>
+            <div>
+              <label class="block text-sm mb-1">معرف اللاعب (UID)</label>
+              <input required id="playerId" class="w-full rounded-xl border px-3 py-2" placeholder="مثال: 123456789"/>
+            </div>
+            <div>
+              <label class="block text-sm mb-1">السيرفر</label>
+              <input id="serverRegion" class="w-full rounded-xl border px-3 py-2" placeholder="اختياري"/>
+            </div>
+            <div>
+              <label class="block text-sm mb-1">البريد الإلكتروني</label>
+              <input type="email" id="email" class="w-full rounded-xl border px-3 py-2" placeholder="اختياري (للوصل)"/>
+            </div>
+            <button class="w-full rounded-2xl bg-indigo-600 text-white py-3 font-bold hover:bg-indigo-700">إتمام الطلب</button>
+            <p id="result" class="text-sm text-slate-600"></p>
+          </form>
+        </div>
+      </div>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "mobile-legends",
+    "name": "موبايل ليجند",
+    "slug": "mobile-legends",
+    "currency": "SAR",
+    "image": "/images/mobile-legends.jpg",
+    "placeholder": "/placeholders/mobile-legends.svg",
+    "packages": [
+      {
+        "id": "diamonds_86",
+        "label": "86 Diamonds (ألماس)"
+      },
+      {
+        "id": "diamonds_172",
+        "label": "172 Diamonds (ألماس)"
+      },
+      {
+        "id": "diamonds_257",
+        "label": "257 Diamonds (ألماس)"
+      },
+      {
+        "id": "diamonds_344",
+        "label": "344 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_430",
+        "label": "430 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_565",
+        "label": "565 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_706",
+        "label": "706 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_1100",
+        "label": "1100 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_1412",
+        "label": "1412 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_1755",
+        "label": "1755 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_2453",
+        "label": "2453 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_3073",
+        "label": "4823 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_4823",
+        "label": "4823 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_6046",
+        "label": "8433 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_12189",
+        "label": "24108 Diamonds (ألماس)"
+      }
+      {
+        "id": "diamonds_30145",
+        "label": "30145 Diamonds (ألماس)"
+      }
+    ],
+    "sigmaProductCodes": {
+      "diamonds_86": "MLD_86",
+      "diamonds_172": "MLD_172",
+      "diamonds_257": "MLD_257",
+      "diamonds_344": "MLD_344"
+    }
+  },
+  {
+    "id": "honkai-star-rail",
+    "name": "هونكاي ستار ريل",
+    "slug": "honkai-star-rail",
+    "currency": "SAR",
+    "image": "/images/honkai-star-rail.jpg",
+    "placeholder": "/placeholders/honkai-star-rail.svg",
+    "packages": [
+      {
+        "id": "oneiric_shard_60",
+        "label": "60 Oneiric Shards (كريستال)"
+      },
+      {
+        "id": "oneiric_shard_300",
+        "label": "300 Oneiric Shards (كريستال)"
+      }
+    ],
+    "sigmaProductCodes": {
+      "oneiric_shard_60": "HSR_OS60",
+      "oneiric_shard_300": "HSR_OS300"
+    }
+  },
+  {
+    "id": "black-clover",
+    "name": "بلاك كلوفر",
+    "slug": "black-clover",
+    "currency": "SAR",
+    "image": "/images/black-clover.jpg",
+    "placeholder": "/placeholders/black-clover.svg",
+    "packages": [
+      {
+        "id": "black_jewels_120",
+        "label": "120 Jewels (ماسات)"
+      },
+      {
+        "id": "black_jewels_300",
+        "label": "300 Jewels (ماسات)"
+      },
+      {
+        "id": "black_jewels_600",
+        "label": "600 Jewels (ماسات)"
+      }
+    ],
+    "sigmaProductCodes": {
+      "black_jewels_120": "BLC_120",
+      "black_jewels_300": "BLC_300",
+      "black_jewels_600": "BLC_600"
+    }
+  },
+  {
+    "id": "genshin-impact",
+    "name": "قِنشن إمباكت",
+    "slug": "genshin-impact",
+    "currency": "SAR",
+    "image": "/images/genshin-impact.jpg",
+    "placeholder": "/placeholders/genshin-impact.svg",
+    "packages": [
+      {
+        "id": "crystals_60",
+        "label": "60 Genesis Crystals (كريستال)"
+      },
+      {
+        "id": "crystals_300",
+        "label": "300 Genesis Crystals (كريستال)"
+      }
+    ],
+    "sigmaProductCodes": {
+      "crystals_60": "GEN_60",
+      "crystals_300": "GEN_300"
+    }
+  },
+  {
+    "id": "pubg-mobile",
+    "name": "ببجي موبايل",
+    "slug": "pubg-mobile",
+    "currency": "SAR",
+    "image": "/images/pubg-mobile.jpg",
+    "placeholder": "/placeholders/pubg-mobile.svg",
+    "packages": [
+      {
+        "id": "uc_60",
+        "label": "60 UC (شدّات)"
+      },
+      {
+        "id": "uc_325",
+        "label": "325 UC (شدّات)"
+      },
+      {
+        "id": "uc_660",
+        "label": "660 UC (شدّات)"
+      }
+    ],
+    "sigmaProductCodes": {
+      "uc_60": "PUBG_60",
+      "uc_325": "PUBG_325",
+      "uc_660": "PUBG_660"
+    }
+  },
+  {
+    "id": "wuthering-waves",
+    "name": "وذرنق ويفز",
+    "slug": "wuthering-waves",
+    "currency": "SAR",
+    "image": "/images/wuthering-waves.jpg",
+    "placeholder": "/placeholders/wuthering-waves.svg",
+    "packages": [
+      {
+        "id": "astrite_60",
+        "label": "60 Astrite (كريستال)"
+      },
+      {
+        "id": "astrite_300",
+        "label": "300 Astrite (كريستال)"
+      }
+    ],
+    "sigmaProductCodes": {
+      "astrite_60": "WW_AV60",
+      "astrite_300": "WW_AV300"
+    }
+  }
+]

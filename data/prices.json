@@ -1,0 +1,30 @@
+{
+  "mobile-legends": {
+    "diamonds_86": 7.5,
+    "diamonds_172": 14.0,
+    "diamonds_257": 20.5,
+    "diamonds_344": 26.5
+  },
+  "honkai-star-rail": {
+    "oneiric_shard_60": 6.5,
+    "oneiric_shard_300": 30.0
+  },
+  "black-clover": {
+    "black_jewels_120": 7.0,
+    "black_jewels_300": 16.0,
+    "black_jewels_600": 30.0
+  },
+  "genshin-impact": {
+    "crystals_60": 6.5,
+    "crystals_300": 30.0
+  },
+  "pubg-mobile": {
+    "uc_60": 6.0,
+    "uc_325": 32.0,
+    "uc_660": 62.0
+  },
+  "wuthering-waves": {
+    "astrite_60": 6.5,
+    "astrite_300": 30.0
+  }
+}
